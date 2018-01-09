@@ -1,0 +1,39 @@
+#info{
+  font-family: "Arial", Georgia, Serif;
+  padding: 2%;
+}
+
+#infolunar{
+  font-family: "Colibri";
+  padding: 2%;
+}
+
+#regresar{
+  position: relative;
+  float: right;
+  margin-top: 2%;
+  margin-right: 40%;
+}
+body{
+  background-image: url("../img/fondo1.jpg");
+}
+
+.boton1{
+  padding: 10px; 
+  background-color: #4d4d4d; 
+  color: #ffffff; 
+  text-decoration: none; 
+  font-family: 'Colibri', sans-serif;
+}
+
+.boton2{
+  padding: 10px; 
+  background-color: Green; 
+  color: #ffffff; 
+  text-decoration: none; 
+  font-family: 'Colibri', sans-serif;
+  position: relative;
+  float: right;
+  margin-top: 2%;
+  margin-right: 10%;
+}
