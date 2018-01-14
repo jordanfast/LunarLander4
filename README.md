@@ -2,13 +2,13 @@
 <a href="https://rawgit.com/jordanfast/LunarLander4/master/index.html">Haciendo Click aquí puedes trastear el juego.</a>
 <h2>Procesos del Proyecto:</h2>
   <p><b>Primero:</b> He cogido el javascript del profesor y lo he agregado al proyecto. </p>
-  <p><b>Segundo:</b> He creado un nuevo fichero "about". </p>
+  <p><b>Segundo:</b> He creado un nuevo fichero HTML llamado "about". </p>
   <p><b>Tercero:</b> He adecuado la parte del javascript con el HTML y CSS.</p>
   <p><b>Cuarto:</b> Para poder adecuar tuve que buscar información de diferentes fuentes: en internet y moodle. </p>
   <p><b>Quinto:</b> He mimificación de los archivos.</p>
 <h2>Los procesos realizados en el proyecto:</h2>
   <p><b>Primero:</b> El archivo javascript lo he puesto en un carpeta llamado "js".</p>
-  <p><b>Segundo:</b> El archivo "about", lo he puesto donde estan los html y contiene: nombre del creador, para quien es el juego y año.   </p>
+  <p><b>Segundo:</b> El archivo HTML "about", lo he puesto donde estan los html y contiene: nombre del creador, para quien es el juego y año.   </p>
  <p><b>Tercero:</b> Eventos y funciones:
    <ul>
       <li type="square">Cambie de cohete a cohete con fuego pulsando una tecla.</li>
