@@ -3,9 +3,9 @@
 <h2>Procesos del Proyecto:</h2>
   <p><b>Primero:</b> He cogido el javascript del profesor y lo he agregado al proyecto. </p>
   <p><b>Segundo:</b> He creado un nuevo fichero "about". </p>
-  <p><b>Tercero:</b> He adecuado la parte del javascript con el HTML y CSS, de manera que cuando se ejecute  no haya fallos.</p>
+  <p><b>Tercero:</b> He adecuado la parte del javascript con el HTML y CSS.</p>
   <p><b>Cuarto:</b> Para poder adecuar tuve que buscar información de diferentes fuentes en internet y moodle. </p>
-  <p><b>Quinto:</b> He mimificacion de los archivos.</p>
+  <p><b>Quinto:</b> He mimificación de los archivos.</p>
 <h2>Los procesos realizados en el proyecto:</h2>
   <p><b>Primero:</b> El archivo javascript lo he puesto en un carpeta llamado "js".</p>
   <p><b>Segundo:</b> El archivo "about", lo he puesto donde estan los html y contiene: nombre del creador, para quien es el juego y año.   </p>
@@ -16,7 +16,7 @@
       <li type="square">En caso de que choque con la luna, explote el cohete.</li>
       <li type="square">Saldrá una imagen de perdedor cuando no se haya cumplido con el objetivo de aterrizar.</li>
       <li type="square">Saldrá una imagen de ganador en caso aterrizar correctamente.</li>
-      <li type="square">En caso de perder a los 5 reiniciará el juego</li>
+      <li type="square">En caso de perder, a los 5 segundos reiniciará el juego</li>
       <li type="square">La pagina "about" esta disponible en la pagina de "info" que es donde estan las instrucciones.</li>
       <li type="square">En las paginas de "about" y "info" tienen la opción de regresar al juego.</li>
     </ul>
