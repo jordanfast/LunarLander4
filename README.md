@@ -16,7 +16,7 @@
       <li type="square">En caso de que choque con la luna, explote el cohete.</li>
       <li type="square">Saldrá una imagen de perdedor cuando no se haya cumplido con el objetivo de aterrizar.</li>
       <li type="square">Saldrá una imagen de ganador en caso aterrizar correctamente.</li>
-      <li type="square">En caso de perder a los 5 reiniciará el juego</li>
+      <li type="square">En caso de perder, a los 5 segundos se reiniciará el juego automáticamente.</li>
       <li type="square">La pagina "about" esta disponible en la pagina de "info" que es donde estan las instrucciones.</li>
       <li type="square">En las paginas de "about" y "info" tienen la opción de regresar al juego.</li>
     </ul>
