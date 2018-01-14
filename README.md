@@ -1,4 +1,4 @@
-<h1>JUEGO LUNAR LANDER</h1>
+<h1>JUEGO LUNAR LANDER MINIFICADO</h1>
 <a href="https://rawgit.com/jordanfast/LunarLander4/Mimificaci%C3%B3n/indexmini.html">Haciendo Click aquí puedes trastear el juego.</a>
 <h2>Procesos del Proyecto:</h2>
   <p><b>Primero:</b> He cogido el javascript del profesor y lo he agregado al proyecto. </p>
