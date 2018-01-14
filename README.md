@@ -10,10 +10,14 @@
   <p><b>Segundo:</b>El archivo "about", lo he puesto donde estan los html y contiene: nombre del creador, para quien es el juego y año.   </p>
  <p><b>Tercero:</b> Eventos y funciones:
    <ul>
-      <li type="square">cambie de cohete a cohete con fuego pulsando una tecla.</li>
-      <li type="square"></li>
-      <li type="square"></li>
-      <li type="square"></li>
+      <li type="square">Cambie de cohete a cohete con fuego pulsando una tecla.</li>
+      <li type="square">Que pare el motor cuando el fuel este agotado.</li>
+      <li type="square">En caso de que choque con la luna, explote el cohete.</li>
+      <li type="square">Saldrá una imagen de perdedor cuando no se haya cumplido con el objetivo de aterrizar.</li>
+      <li type="square">Saldrá una imagen de ganador en caso aterrizar correctamente.</li>
+      <li type="square">En caso de perder a los 5 reiniciará el juego</li>
+      <li type="square">la pagina "about" esta disponible en "info" que es donde esta las instrucciones.</li>
+      <li type="square">En las paginas de "about" y "info" tienen la opción de regresar al juego.</li>
     </ul>
  </p>
 <p><b></b></p>
