@@ -1,4 +1,5 @@
 <h1>JUEGO LUNAR LANDER</h1>
+
 <h2>Procesos del Proyecto:</h2>
   <p><b>Primero:</b> He cogido el javascript del profesor y lo he agregado al proyecto. </p>
   <p><b>Segundo:</b> He creado un nuevo fichero "about". </p>
@@ -6,8 +7,8 @@
   <p><b>Cuarto:</b> Para poder adecuar tuve que buscar información de diferentes fuentes en internet y moodle. </p>
   <p><b>Quinto:</b> He mimificacion de los archivos.</p>
 <h2>Los procesos realizados en el proyecto:</h2>
-  <p><b>Primero:</b>el archivo javascript lo he puesto en un carpeta llamado "js".</p>
-  <p><b>Segundo:</b>El archivo "about", lo he puesto donde estan los html y contiene: nombre del creador, para quien es el juego y año.   </p>
+  <p><b>Primero:</b> El archivo javascript lo he puesto en un carpeta llamado "js".</p>
+  <p><b>Segundo:</b> El archivo "about", lo he puesto donde estan los html y contiene: nombre del creador, para quien es el juego y año.   </p>
  <p><b>Tercero:</b> Eventos y funciones:
    <ul>
       <li type="square">Cambie de cohete a cohete con fuego pulsando una tecla.</li>
@@ -16,7 +17,7 @@
       <li type="square">Saldrá una imagen de perdedor cuando no se haya cumplido con el objetivo de aterrizar.</li>
       <li type="square">Saldrá una imagen de ganador en caso aterrizar correctamente.</li>
       <li type="square">En caso de perder a los 5 reiniciará el juego</li>
-      <li type="square">la pagina "about" esta disponible en "info" que es donde esta las instrucciones.</li>
+      <li type="square">La pagina "about" esta disponible en la pagina de "info" que es donde estan las instrucciones.</li>
       <li type="square">En las paginas de "about" y "info" tienen la opción de regresar al juego.</li>
     </ul>
  </p>
