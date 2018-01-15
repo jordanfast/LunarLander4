@@ -1,7 +1,7 @@
 <h1>JUEGO LUNAR LANDER</h1>
 <a href="https://rawgit.com/jordanfast/LunarLander4/master/index.html">Haciendo Click aquí puedes trastear el juego.</a>
 <h2>Procesos del Proyecto:</h2>
-  <p><b>Primero:</b> He cogido el javascript del profesor y lo he agregado al proyecto. </p>
+  <p><b>Primero:</b> He cogido el fichero de javascript  y lo he agregado al proyecto. </p>
   <p><b>Segundo:</b> He creado un nuevo fichero HTML llamado "about". </p>
   <p><b>Tercero:</b> He adecuado la parte del javascript con el HTML y CSS.</p>
   <p><b>Cuarto:</b> Para poder adecuar tuve que buscar información de diferentes fuentes: en internet y moodle. </p>
