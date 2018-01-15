@@ -21,4 +21,4 @@
       <li type="square">En las paginas de "about" y "info" tienen la opción de regresar al juego.</li>
     </ul>
  </p>
-<p><b>Cuarto:</b> Mimificación de los archivos CSS y HTML con compresores online para su mejor optimización(esto irá en un branch llamado "mimificación").</p>
+<p><b>Cuarto:</b> Mimificación de los archivos CSS y HTML con compresores online para su mejor optimización (esto irá en un branch llamado "mimificación").</p>
