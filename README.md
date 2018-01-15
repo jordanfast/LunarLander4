@@ -3,7 +3,7 @@
 <h2>Procesos del Proyecto:</h2>
   <p><b>Primero:</b> He cogido el fichero de javascript  y lo he agregado al proyecto. </p>
   <p><b>Segundo:</b> He creado un nuevo fichero HTML llamado "about". </p>
-  <p><b>Tercero:</b> He adecuado la parte del javascript con el HTML y CSS.</p>
+  <p><b>Tercero:</b> He adecuado el javascript con el HTML y CSS.</p>
   <p><b>Cuarto:</b> Para poder adecuar tuve que buscar información de diferentes fuentes: en internet y moodle. </p>
   <p><b>Quinto:</b> Mimificación de los archivos.</p>
 <h2>Los procesos realizados en el proyecto:</h2>
